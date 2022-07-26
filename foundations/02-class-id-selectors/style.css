@@ -1,0 +1,19 @@
+.second {
+    background-color:rgb(255, 167, 167);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+.second.class {
+    font-size: 24px;
+}
+
+#ID {
+    color:blue;
+    font-size: 36px;
+}
+
+#ID1 {
+    background-color:lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
